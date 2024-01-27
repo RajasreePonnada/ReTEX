@@ -24,16 +24,14 @@ A de-centralised application powered by POLYGON Platform will offer a comprehens
   * Better Development Options
   * Provides Layer-2 Scaling Solutions
 
-## How reTEX achieves this?
-The RETEX solution approach leverages the Polkadot
-blockchain to streamline the process of issuance and 
-verifying renewable energy certificates (RECs). By 
-implementing smart contracts on the blockchain, 
-RETEX ensures accuracy, efficiency, and transparency 
-throughout the entire lifecycle of RECs. Here's how it 
-works:
-By leveraging smart contracts and blockchain 
-technology, RETEX revolutionises the process of REC 
-monitoring and verification, providing a streamlined, 
-accurate, and transparent solution for the renewable 
-energy market.
+## How ReTEX achieves this?
+The RETEX solution approach leverages the ethereum blockchain to streamline the process of issuance and verifying renewable energy and issuance of certificates (RECs). By implementing smart contracts on the blockchain, ReTEX ensures accuracy, efficiency, and transparency throughout the entire lifecycle of RECs. Here's how it works:
+
+By leveraging smart contracts and blockchain technology, ReTEX revolutionises the process of Renewable Energy resources monitoring and verification, providing a streamlined, accurate, and transparent solution for the renewable energy market.The user is able to buy and sell the surplus renewable Energy resources maintaing a ***DISTRIBUTED LEDGER***, which is a inherent property of Blockchain.
+
+
+
+
+
+
+
