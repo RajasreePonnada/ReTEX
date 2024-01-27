@@ -1,5 +1,5 @@
 # ReTEX:
-***Renewable Energy Tracking Exxchane and Exchange Platform***
+***Renewable Energy Tracking Exchange andPlatform***
 ## Why ReTEX?
 The renewable energy resources are to be used judicially with responsibilty and the producers of it are to be kept track of their production such that their carbon footprints can be accounted.
 Here is a need for scalability of Micro Renewable Energy Certificates (Micro RECs) at the small prosumer level. The current renewable energy ecosystem lacks an efficient mechanism to recognise and reward prosumers at the micro-scale, such as solar rooftop owners, for their contribution to clean energy generation. As a result, these prosumers are unable to monetise their surplus energy effectively, leading to untapped potential and a missed opportunity for sustainable growth. Additionally, the absence of a standardized verification system poses challenges in ensuring transparency and trust in renewable energy transactions. This calls for a solution that addresses these issues and empowers prosumers to fully participate in the renewable energy market.
