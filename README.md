@@ -29,12 +29,11 @@ The RETEX solution approach leverages the ethereum blockchain to streamline the 
 
 By leveraging smart contracts and blockchain technology, ReTEX revolutionises the process of Renewable Energy resources monitoring and verification, providing a streamlined, accurate, and transparent solution for the renewable energy market.The user is able to buy and sell the surplus renewable Energy resources maintaing a ***DISTRIBUTED LEDGER***, which is a inherent property of Blockchain.
 
-## Aiming towards Sustainable Development
+## Aiming towards Sustainable Development:
 * Affordable and Clean Resources
 * Sustainable Cities and Communities
 * Responsible Consumption and Production
 * Climate Action
-
 
 
 
